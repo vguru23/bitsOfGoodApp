@@ -15,6 +15,7 @@ body {
     flex-direction: column;
     background: linear-gradient(180deg, #3E217B 14.58%, #E28C6C 100%);
     color: #D9744F;
+    min-height: 100vh;
 
 
                       
